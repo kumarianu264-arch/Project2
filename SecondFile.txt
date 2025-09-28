@@ -4,10 +4,4 @@ print(F, L)
 
 
 Main Branch update
-<<<<<<< HEAD
 Updated Feature1 file, feature1 feature 
-=======
-Updated Feature1 file, main feature
-
-
->>>>>>> main
