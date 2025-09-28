@@ -1,1 +1,3 @@
-"Hello World"
+F = Anu
+L = Singh
+print(F, L)
