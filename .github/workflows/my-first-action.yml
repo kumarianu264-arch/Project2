@@ -1,9 +1,14 @@
 name: My First Action
 
-on: [push]
+on:
+  workflow_dispatch:   # enables manual trigger
 
 jobs:
-  test:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "GitHub Actions is running"
+      - run: echo "GitHub Actions is running manually"
+
+
+
+      
